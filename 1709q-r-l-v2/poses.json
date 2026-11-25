@@ -1,0 +1,1138 @@
+{
+ "bedfoot": {
+  "bedside": {
+   "inliers": 107,
+   "dlt": 52.0,
+   "alpha": 313.75,
+   "beta": -0.0,
+   "ok": false,
+   "dist": 1.96,
+   "pos": [
+    -1.416,
+    -0.0,
+    1.355
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  },
+  "dinette": {
+   "inliers": 232,
+   "dlt": 351.25,
+   "alpha": 200.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.802,
+   "pos": [
+    -0.281,
+    -0.0,
+    -0.751
+   ]
+  },
+  "galley": {
+   "inliers": 781,
+   "dlt": 1.75,
+   "alpha": 202.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.394,
+   "pos": [
+    -0.151,
+    -0.0,
+    -0.364
+   ]
+  },
+  "robe": {
+   "inliers": 83,
+   "dlt": 268.25,
+   "alpha": 73.0,
+   "beta": 0.0,
+   "ok": false,
+   "dist": 1.69,
+   "pos": [
+    1.616,
+    0.0,
+    0.494
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  }
+ },
+ "bedside": {
+  "bedfoot": {
+   "inliers": 107,
+   "dlt": 308.0,
+   "alpha": 185.75,
+   "beta": -0.0,
+   "ok": false,
+   "dist": 1.962,
+   "pos": [
+    -0.197,
+    -0.0,
+    -1.952
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  },
+  "robe": {
+   "inliers": 32,
+   "dlt": 229.25,
+   "alpha": 156.0,
+   "beta": 0.0,
+   "ok": false,
+   "dist": 0.261,
+   "pos": [
+    0.106,
+    0.0,
+    -0.238
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  }
+ },
+ "dinette": {
+  "bedfoot": {
+   "inliers": 232,
+   "dlt": 8.75,
+   "alpha": 11.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.806,
+   "pos": [
+    0.164,
+    0.0,
+    0.789
+   ]
+  },
+  "fridge": {
+   "inliers": 223,
+   "dlt": 320.0,
+   "alpha": 186.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.833,
+   "pos": [
+    -0.094,
+    -0.0,
+    -0.827
+   ]
+  },
+  "galley": {
+   "inliers": 929,
+   "dlt": 10.5,
+   "alpha": 9.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.409,
+   "pos": [
+    0.068,
+    0.0,
+    0.403
+   ]
+  },
+  "kitchen": {
+   "inliers": 1036,
+   "dlt": 351.5,
+   "alpha": 192.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.299,
+   "pos": [
+    -0.062,
+    -0.0,
+    -0.292
+   ]
+  }
+ },
+ "ensdoor": {
+  "ensuite": {
+   "inliers": 701,
+   "dlt": 301.25,
+   "alpha": 321.25,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.208,
+   "pos": [
+    -0.13,
+    -0.0,
+    0.162
+   ]
+  },
+  "entry": {
+   "inliers": 35,
+   "dlt": 222.0,
+   "alpha": 36.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.831,
+   "pos": [
+    0.497,
+    0.0,
+    0.665
+   ]
+  },
+  "fridge": {
+   "inliers": 537,
+   "dlt": 217.25,
+   "alpha": 81.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.356,
+   "pos": [
+    0.352,
+    0.0,
+    0.053
+   ]
+  },
+  "showerdoor": {
+   "inliers": 619,
+   "dlt": 324.5,
+   "alpha": 315.25,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.23,
+   "pos": [
+    -0.162,
+    -0.0,
+    0.163
+   ]
+  }
+ },
+ "enslockers": {
+  "ensdoor": {
+   "inliers": 25,
+   "dlt": 221.5,
+   "alpha": 78.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.723,
+   "pos": [
+    0.707,
+    0.0,
+    0.15
+   ]
+  },
+  "ensuite": {
+   "inliers": 10,
+   "dlt": 124.0,
+   "alpha": 213.0,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "showerdoor": {
+   "inliers": 9,
+   "dlt": 150.0,
+   "alpha": 84.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "shower": {
+   "inliers": 11,
+   "dlt": 11.25,
+   "alpha": 217.75,
+   "beta": -11.75,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "ensuite": {
+  "ensdoor": {
+   "inliers": 688,
+   "dlt": 58.5,
+   "alpha": 81.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.205,
+   "pos": [
+    0.203,
+    0.0,
+    0.029
+   ]
+  },
+  "enslockers": {
+   "inliers": 14,
+   "dlt": 84.0,
+   "alpha": 147.25,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "showerdoor": {
+   "inliers": 1552,
+   "dlt": 23.75,
+   "alpha": 194.75,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "entry": {
+  "ensdoor": {
+   "inliers": 35,
+   "dlt": 139.25,
+   "alpha": 78.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.815,
+   "pos": [
+    0.799,
+    0.0,
+    0.163
+   ]
+  },
+  "fridge": {
+   "inliers": 38,
+   "dlt": 356.25,
+   "alpha": 62.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.55,
+   "pos": [
+    0.488,
+    0.0,
+    0.254
+   ]
+  },
+  "kitchen": {
+   "inliers": 28,
+   "dlt": 20.75,
+   "alpha": 25.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.768,
+   "pos": [
+    0.328,
+    0.0,
+    0.695
+   ]
+  }
+ },
+ "fridge": {
+  "dinette": {
+   "inliers": 223,
+   "dlt": 40.0,
+   "alpha": 326.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.834,
+   "pos": [
+    -0.46,
+    -0.0,
+    0.695
+   ]
+  },
+  "ensdoor": {
+   "inliers": 554,
+   "dlt": 142.75,
+   "alpha": 118.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.356,
+   "pos": [
+    0.312,
+    0.0,
+    -0.171
+   ]
+  },
+  "ensuite": {
+   "inliers": 447,
+   "dlt": 82.75,
+   "alpha": 142.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.509,
+   "pos": [
+    0.313,
+    0.0,
+    -0.401
+   ]
+  },
+  "entry": {
+   "inliers": 37,
+   "dlt": 3.5,
+   "alpha": 239.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.584,
+   "pos": [
+    -0.5,
+    -0.0,
+    -0.301
+   ]
+  },
+  "fridgeopen": {
+   "inliers": 4111,
+   "dlt": 0.0,
+   "alpha": 324.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.242,
+   "pos": [
+    -0.14,
+    -0.0,
+    0.197
+   ]
+  },
+  "kitchen": {
+   "inliers": 404,
+   "dlt": 31.25,
+   "alpha": 323.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.527,
+   "pos": [
+    -0.317,
+    -0.0,
+    0.42
+   ]
+  }
+ },
+ "fridgeopen": {
+  "dinette": {
+   "inliers": 137,
+   "dlt": 39.75,
+   "alpha": 326.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.834,
+   "pos": [
+    -0.46,
+    -0.0,
+    0.695
+   ]
+  },
+  "ensdoor": {
+   "inliers": 300,
+   "dlt": 142.75,
+   "alpha": 118.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.348,
+   "pos": [
+    0.307,
+    0.0,
+    -0.163
+   ]
+  },
+  "ensuite": {
+   "inliers": 235,
+   "dlt": 82.5,
+   "alpha": 143.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.518,
+   "pos": [
+    0.31,
+    0.0,
+    -0.415
+   ]
+  },
+  "entry": {
+   "inliers": 19,
+   "dlt": 233.0,
+   "alpha": 336.25,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "fridge": {
+   "inliers": 4105,
+   "dlt": 0.0,
+   "alpha": 144.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.526,
+   "pos": [
+    0.307,
+    0.0,
+    -0.427
+   ]
+  },
+  "kitchen": {
+   "inliers": 259,
+   "dlt": 31.25,
+   "alpha": 323.25,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.543,
+   "pos": [
+    -0.325,
+    -0.0,
+    0.435
+   ]
+  }
+ },
+ "galley": {
+  "bedfoot": {
+   "inliers": 801,
+   "dlt": 358.25,
+   "alpha": 24.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.393,
+   "pos": [
+    0.163,
+    0.0,
+    0.357
+   ]
+  },
+  "bedside": {
+   "inliers": 77,
+   "dlt": 50.25,
+   "alpha": 335.25,
+   "beta": -0.0,
+   "ok": false,
+   "dist": 2.171,
+   "pos": [
+    -0.909,
+    -0.0,
+    1.971
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  },
+  "dinette": {
+   "inliers": 957,
+   "dlt": 349.5,
+   "alpha": 200.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.937,
+   "pos": [
+    -0.32,
+    -0.0,
+    -0.88
+   ]
+  },
+  "kitchen": {
+   "inliers": 323,
+   "dlt": 341.0,
+   "alpha": 201.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.692,
+   "pos": [
+    -0.248,
+    -0.0,
+    -0.646
+   ]
+  },
+  "robe": {
+   "inliers": 57,
+   "dlt": 264.75,
+   "alpha": 62.0,
+   "beta": 0.0,
+   "ok": false,
+   "dist": 0.369,
+   "pos": [
+    0.326,
+    0.0,
+    0.173
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  }
+ },
+ "kitchen": {
+  "dinette": {
+   "inliers": 1030,
+   "dlt": 8.5,
+   "alpha": 3.5,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.299,
+   "pos": [
+    0.018,
+    0.0,
+    0.298
+   ]
+  },
+  "ensdoor": {
+   "inliers": 169,
+   "dlt": 110.75,
+   "alpha": 165.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.879,
+   "pos": [
+    0.224,
+    0.0,
+    -0.85
+   ]
+  },
+  "entry": {
+   "inliers": 35,
+   "dlt": 335.75,
+   "alpha": 224.25,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.843,
+   "pos": [
+    -0.588,
+    -0.0,
+    -0.604
+   ]
+  },
+  "fridge": {
+   "inliers": 392,
+   "dlt": 328.75,
+   "alpha": 174.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.525,
+   "pos": [
+    0.053,
+    0.0,
+    -0.523
+   ]
+  },
+  "galley": {
+   "inliers": 341,
+   "dlt": 19.0,
+   "alpha": 2.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.68,
+   "pos": [
+    0.024,
+    0.0,
+    0.68
+   ]
+  },
+  "xrearc": {
+   "inliers": 1,
+   "dlt": 157.75,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xrear": {
+   "inliers": 1,
+   "dlt": 176.5,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xrearf": {
+   "inliers": 1,
+   "dlt": 225.0,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xfar2": {
+   "inliers": 1,
+   "dlt": 273.25,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xfar1": {
+   "inliers": 1,
+   "dlt": 273.25,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xfar3": {
+   "inliers": 1,
+   "dlt": 276.25,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xfrontc": {
+   "inliers": 1,
+   "dlt": 321.0,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xfront": {
+   "inliers": 1,
+   "dlt": 0.25,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xside1": {
+   "inliers": 1,
+   "dlt": 93.5,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xside2": {
+   "inliers": 1,
+   "dlt": 92.0,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xside3": {
+   "inliers": 1,
+   "dlt": 102.5,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: ring turns from the outside pairs + offset read from the photos (x080 front face, x086 rear face), 24 Nov"
+  },
+  "xsteps": {
+   "inliers": 1,
+   "dlt": 297.5,
+   "alpha": 0.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "heading only: x084 tie + xdoor->xsteps turn 205.0, 24 Nov"
+  }
+ },
+ "robe": {
+  "bedfoot": {
+   "inliers": 83,
+   "dlt": 91.25,
+   "alpha": 162.25,
+   "beta": 0.0,
+   "ok": false,
+   "dist": 0.773,
+   "pos": [
+    0.236,
+    0.0,
+    -0.736
+   ],
+   "why": "bed read as floor (distance about double), direction kept, 24 Nov"
+  },
+  "bedside": {
+   "inliers": 31,
+   "dlt": 87.5,
+   "alpha": 43.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "shower": {
+  "showerdoor": {
+   "inliers": 76,
+   "dlt": 61.0,
+   "alpha": 92.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.49,
+   "pos": [
+    0.49,
+    0.0,
+    -0.017
+   ]
+  }
+ },
+ "showerdoor": {
+  "ensdoor": {
+   "inliers": 614,
+   "dlt": 35.5,
+   "alpha": 99.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.23,
+   "pos": [
+    0.226,
+    0.0,
+    -0.039
+   ]
+  },
+  "ensuite": {
+   "inliers": 1538,
+   "dlt": 336.25,
+   "alpha": 38.5,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "shower": {
+   "inliers": 86,
+   "dlt": 299.0,
+   "alpha": 333.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.492,
+   "pos": [
+    -0.223,
+    -0.0,
+    0.438
+   ]
+  },
+  "enslockers": {
+   "inliers": 11,
+   "dlt": 338.25,
+   "alpha": 72.5,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "xfar1": {
+  "xfar2": {
+   "inliers": 8392,
+   "dlt": 0.0,
+   "alpha": 70.0,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xrearf": {
+   "inliers": 632,
+   "dlt": 311.75,
+   "alpha": 110.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 1.792,
+   "pos": [
+    1.684,
+    0.0,
+    -0.613
+   ]
+  },
+  "xfar3": {
+   "inliers": 460,
+   "dlt": 3.0,
+   "alpha": 272.25,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "xfar2": {
+  "xfar1": {
+   "inliers": 8384,
+   "dlt": 0.0,
+   "alpha": 252.0,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xfar3": {
+   "inliers": 469,
+   "dlt": 3.0,
+   "alpha": 272.0,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xrearf": {
+   "inliers": 672,
+   "dlt": 311.75,
+   "alpha": 109.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 1.803,
+   "pos": [
+    1.697,
+    0.0,
+    -0.609
+   ]
+  }
+ },
+ "xfar3": {
+  "xfar2": {
+   "inliers": 482,
+   "dlt": 357.25,
+   "alpha": 95.5,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xfrontc": {
+   "inliers": 853,
+   "dlt": 44.75,
+   "alpha": 268.5,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 2.071,
+   "pos": [
+    -2.07,
+    -0.0,
+    -0.054
+   ]
+  }
+ },
+ "xfront": {
+  "xfrontc": {
+   "inliers": 475,
+   "dlt": 320.75,
+   "alpha": 131.75,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xside1": {
+   "inliers": 406,
+   "dlt": 93.25,
+   "alpha": 234.25,
+   "beta": -0.0,
+   "ok": false,
+   "why": "no floor"
+  }
+ },
+ "xfrontc": {
+  "xfar3": {
+   "inliers": 862,
+   "dlt": 315.25,
+   "alpha": 133.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 1.835,
+   "pos": [
+    1.336,
+    0.0,
+    -1.257
+   ]
+  },
+  "xfront": {
+   "inliers": 486,
+   "dlt": 39.25,
+   "alpha": 272.75,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 0.72,
+   "pos": [
+    -0.719,
+    -0.0,
+    0.035
+   ]
+  }
+ },
+ "xrear": {
+  "xrearc": {
+   "inliers": 875,
+   "dlt": 341.25,
+   "alpha": 110.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 1.542,
+   "pos": [
+    1.449,
+    0.0,
+    -0.528
+   ]
+  },
+  "xrearf": {
+   "inliers": 374,
+   "dlt": 48.5,
+   "alpha": 250.75,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 2.003,
+   "pos": [
+    -1.891,
+    -0.0,
+    -0.66
+   ]
+  }
+ },
+ "xrearc": {
+  "xrear": {
+   "inliers": 895,
+   "dlt": 18.75,
+   "alpha": 272.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 1.591,
+   "pos": [
+    -1.59,
+    -0.0,
+    0.056
+   ]
+  },
+  "xsteps": {
+   "inliers": 424,
+   "dlt": 139.5,
+   "alpha": 164.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 2.155,
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "why": "from xrearc->x084 (424 inl, dist 2.155), x084 within 18 cm of 126, 24 Nov"
+  }
+ },
+ "xrearf": {
+  "xfar1": {
+   "inliers": 650,
+   "dlt": 48.25,
+   "alpha": 241.75,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 1.803,
+   "pos": [
+    -1.588,
+    -0.0,
+    -0.854
+   ]
+  },
+  "xrear": {
+   "inliers": 371,
+   "dlt": 311.5,
+   "alpha": 119.25,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 2.003,
+   "pos": [
+    1.747,
+    0.0,
+    -0.979
+   ]
+  },
+  "xfar2": {
+   "inliers": 667,
+   "dlt": 48.25,
+   "alpha": 241.75,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 1.809,
+   "pos": [
+    -1.593,
+    -0.0,
+    -0.856
+   ]
+  }
+ },
+ "xside1": {
+  "xfront": {
+   "inliers": 407,
+   "dlt": 266.75,
+   "alpha": 147.5,
+   "beta": 0.0,
+   "ok": false,
+   "why": "no floor"
+  },
+  "xside2": {
+   "inliers": 587,
+   "dlt": 358.5,
+   "alpha": 285.25,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 2.359,
+   "pos": [
+    -2.276,
+    -0.0,
+    0.621
+   ]
+  }
+ },
+ "xside2": {
+  "xside1": {
+   "inliers": 606,
+   "dlt": 1.5,
+   "alpha": 103.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.985,
+   "pos": [
+    0.956,
+    0.0,
+    -0.234
+   ]
+  },
+  "xside3": {
+   "inliers": 1161,
+   "dlt": 10.5,
+   "alpha": 207.0,
+   "beta": -0.0,
+   "ok": true,
+   "dist": 1.009,
+   "pos": [
+    -0.458,
+    -0.0,
+    -0.899
+   ]
+  }
+ },
+ "xside3": {
+  "xside2": {
+   "inliers": 1157,
+   "dlt": 349.5,
+   "alpha": 36.75,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 1.051,
+   "pos": [
+    0.629,
+    0.0,
+    0.842
+   ]
+  },
+  "xsteps": {
+   "inliers": 398,
+   "dlt": 194.5,
+   "alpha": 276.75,
+   "beta": -0.0,
+   "ok": true,
+   "why": "direction measured (391-398 inl, no floor read); distance from the x084<->xside3 pair (1311 inl, 0.783), x084 within 18 cm of 126, 24 Nov",
+   "dist": 0.783,
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "xsteps": {
+  "xside3": {
+   "inliers": 391,
+   "dlt": 165.5,
+   "alpha": 291.25,
+   "beta": -0.0,
+   "ok": true,
+   "why": "direction measured (391-398 inl, no floor read); distance from the x084<->xside3 pair (1311 inl, 0.783), x084 within 18 cm of 126, 24 Nov",
+   "dist": 0.783,
+   "pos": [
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "xrearc": {
+   "inliers": 421,
+   "dlt": 220.25,
+   "alpha": 124.25,
+   "beta": 0.0,
+   "ok": false,
+   "why": "from x084->xrearc (421 inl) turned into the 126 frame (x084->126 turn 205, 18 cm apart); own pair 174 inl pointed 70 deg off, 24 Nov"
+  }
+ },
+ "vanity": {
+  "ensdoor": {
+   "inliers": 670,
+   "dlt": 58.75,
+   "alpha": 83.0,
+   "beta": 0.0,
+   "ok": true,
+   "dist": 0.206,
+   "pos": [
+    0.205,
+    0.0,
+    0.025
+   ]
+  },
+  "shower": {
+   "inliers": 95,
+   "dlt": 321.75,
+   "alpha": 307.0,
+   "beta": 3.5,
+   "ok": true,
+   "dist": 0.495,
+   "pos": [
+    -0.396,
+    0.03,
+    0.298
+   ]
+  }
+ }
+}

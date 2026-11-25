@@ -1,0 +1,167 @@
+{
+ "kitchen:dinette": {
+  "inliers": 1053,
+  "beta": -0.2,
+  "rise": -0.004,
+  "h_a": 3.364,
+  "h_b": 3.36,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "kitchen:fridge": {
+  "inliers": 398,
+  "beta": 0.5,
+  "rise": 0.009,
+  "h_a": 1.886,
+  "h_b": 1.901,
+  "b_over_a": 1.01,
+  "b_over_a_rise": 1.0
+ },
+ "dinette:galley": {
+  "inliers": 935,
+  "beta": -0.2,
+  "rise": -0.004,
+  "h_a": 1.087,
+  "h_b": 1.083,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "galley:bedfoot": {
+  "inliers": 820,
+  "beta": -0.5,
+  "rise": -0.009,
+  "h_a": 2.596,
+  "h_b": 2.588,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "fridge:entry": {
+  "inliers": 218,
+  "beta": -13.8,
+  "rise": -0.238,
+  "h_a": 1.687,
+  "h_b": 1.449,
+  "b_over_a": 0.86,
+  "b_over_a_rise": 0.86
+ },
+ "kitchen:entry": {
+  "inliers": 190,
+  "beta": -9.8,
+  "rise": -0.169,
+  "h_a": 1.284,
+  "h_b": 1.114,
+  "b_over_a": 0.87,
+  "b_over_a_rise": 0.87
+ },
+ "fridge:ensdoor": {
+  "inliers": 560,
+  "beta": -0.2,
+  "rise": -0.004,
+  "h_a": 2.83,
+  "h_b": 2.819,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "ensdoor:ensuite": {
+  "inliers": 733,
+  "beta": 0.5,
+  "rise": 0.009,
+  "h_a": 4.871,
+  "h_b": 4.885,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "ensdoor:showerdoor": {
+  "inliers": 627,
+  "beta": 0.5,
+  "rise": 0.009,
+  "h_a": 4.298,
+  "h_b": 4.31,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "showerdoor:shower": {
+  "inliers": 149,
+  "beta": 6.8,
+  "rise": 0.118,
+  "h_a": 1.825,
+  "h_b": 1.943,
+  "b_over_a": 1.06,
+  "b_over_a_rise": 1.06
+ },
+ "bedfoot:bedside": {
+  "inliers": 107,
+  "beta": 0.0,
+  "rise": 0.0,
+  "h_a": 0.51,
+  "h_b": 0.51,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "bedfoot:robe": {
+  "inliers": 121,
+  "beta": -0.8,
+  "rise": -0.013,
+  "h_a": 1.276,
+  "h_b": 1.263,
+  "b_over_a": 0.99,
+  "b_over_a_rise": 0.99
+ },
+ "galley:robe": {
+  "inliers": 83,
+  "beta": -0.8,
+  "rise": -0.013
+ },
+ "xside2:xside3": {
+  "inliers": 1194,
+  "beta": -0.2,
+  "rise": -0.004,
+  "h_a": 0.993,
+  "h_b": 0.981,
+  "b_over_a": 0.99,
+  "b_over_a_rise": 1.0
+ },
+ "xside3:xdoor": {
+  "inliers": 1316,
+  "beta": 0.2,
+  "rise": 0.004,
+  "h_a": 1.276,
+  "h_b": 1.28,
+  "b_over_a": 1.0,
+  "b_over_a_rise": 1.0
+ },
+ "xside2:xside1": {
+  "inliers": 608,
+  "beta": -0.2,
+  "rise": -0.004
+ },
+ "xrear:xrearc": {
+  "inliers": 875,
+  "beta": 0.0,
+  "rise": 0.0,
+  "h_a": 0.648,
+  "h_b": 0.655,
+  "b_over_a": 1.01,
+  "b_over_a_rise": 1.0
+ },
+ "xrearf:xrear": {
+  "inliers": 378,
+  "beta": 0.5,
+  "rise": 0.009
+ },
+ "xfar2:xrearf": {
+  "inliers": 674,
+  "beta": 0.2,
+  "rise": 0.004
+ },
+ "xfrontc:xfar3": {
+  "inliers": 862,
+  "beta": 0.0,
+  "rise": 0.0
+ },
+ "xfrontc:xfront": {
+  "inliers": 664,
+  "beta": 0.5,
+  "rise": 0.009
+ }
+}

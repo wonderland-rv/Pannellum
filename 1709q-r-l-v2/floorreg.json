@@ -1,0 +1,72 @@
+{
+ "fridge:kitchen": {
+  "dx": -0.022,
+  "dz": 0.54,
+  "votes": 92,
+  "matches": 176,
+  "runner_up": 35
+ },
+ "kitchen:dinette": {
+  "dx": 0.039,
+  "dz": 0.296,
+  "votes": 185,
+  "matches": 255,
+  "runner_up": 10
+ },
+ "dinette:galley": {
+  "dx": 0.022,
+  "dz": 0.407,
+  "votes": 88,
+  "matches": 147,
+  "runner_up": 25
+ },
+ "galley:bedfoot": {
+  "dx": 0.06,
+  "dz": 0.386,
+  "votes": 62,
+  "matches": 100,
+  "runner_up": 17
+ },
+ "fridge:ensdoor": {
+  "dx": 0.164,
+  "dz": -0.319,
+  "votes": 40,
+  "matches": 88,
+  "runner_up": 6
+ },
+ "entry:fridge": {
+  "dx": 0.581,
+  "dz": 0.032,
+  "votes": 23,
+  "matches": 111,
+  "runner_up": 9
+ },
+ "bedfoot:bedside": {
+  "dx": -4.4,
+  "dz": -1.133,
+  "votes": 1,
+  "matches": 62,
+  "runner_up": 1
+ },
+ "bedfoot:robe": {
+  "dx": -3.378,
+  "dz": -1.104,
+  "votes": 2,
+  "matches": 47,
+  "runner_up": 2
+ },
+ "ensdoor:showerdoor": {
+  "dx": -0.318,
+  "dz": -0.643,
+  "votes": 12,
+  "matches": 56,
+  "runner_up": 4
+ },
+ "showerdoor:shower": {
+  "dx": -2.069,
+  "dz": -2.779,
+  "votes": 2,
+  "matches": 23,
+  "runner_up": 1
+ }
+}
